@@ -52,5 +52,6 @@
   - 데이터의 복구는 가능한가? 이 상황이라면 Secondary에도 커밋전일 가능성이 매우 크기때문에 복구는 불가능할듯....
   
 ## 쓰다보니 Elasicsearch???  
+- https://www.slideshare.net/heungrae_kim/ss-123344339
 
 
